@@ -7,7 +7,6 @@ import {
   FaCalendar,
   FaEnvelope,
   FaLocationArrow,
-  FaPhone,
 } from "react-icons/fa";
 import Progress from "../Compo/Progress";
 import call from "../Assets/back/shape/call-to-action.jpg";

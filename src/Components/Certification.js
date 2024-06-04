@@ -1,7 +1,6 @@
 import React from "react";
 
 import "../CSS/Certifiction.css";
-import intern from "../Assets/cirtficate/intern.jpg";
 import mzos from "../Assets/cirtficate/mzios.jpg";
 import infinity from "../Assets/cirtficate/infinity.jpg";
 import PopupImage from "../Compo/PopupImage";
