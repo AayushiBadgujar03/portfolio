@@ -53,12 +53,12 @@ const Navbar = () => {
         <div className="social-media">
           <ul className="social-media-desktop">
             <li>
-              <a href="https://instagram.com/_mr_j_e_e_t_0_4_?utm_medium=copy_link">
+              <a href="https://www.instagram.com/_aayushibadgujar_03?igsh=MzR4amFjYzJxaHFh">
                 <FaInstagramSquare className="instagram" />
               </a>
             </li>
             <li>
-              <a href="https://linkedin.com/in/jitesh-sonar-a727031a2">
+              <a href="https://www.linkedin.com/in/aayushi-badgujar-265b471a5/">
                 <FaLinkedin className="youtube" />
               </a>
             </li>

@@ -95,7 +95,7 @@ const Home = () => {
                 <div class="header-social-icon">
                   <ul>
                     <li>
-                      <a href="https://instagram.com/_mr_j_e_e_t_0_4_?utm_medium=copy_link">
+                      <a href="https://www.instagram.com/_aayushibadgujar_03?igsh=MzR4amFjYzJxaHFh">
                         <FaInstagram />
                       </a>
                     </li>
