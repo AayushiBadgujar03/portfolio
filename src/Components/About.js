@@ -29,8 +29,9 @@ const About = () => {
             <div className="col-lg-8">
               <div className="section-title text-center">
                 <h2 className="title">About Me</h2>
-                <p style={{alignContent: "center", marginBottom: "50px" }}>
-                “Design is not just what it looks like and feels like. Design is how it works.”
+                <p style={{ alignContent: "center", marginBottom: "50px" }}>
+                  “Design is not just what it looks like and feels like. Design
+                  is how it works.”
                 </p>
               </div>
             </div>
@@ -41,12 +42,12 @@ const About = () => {
               <div className="about-content mt-50">
                 <h5 className="about-title">Hi There! I'm Aayushi Badgujar</h5>
                 <p>
-                  A UI Designer & Web Developer from Pune,
-                  Maharashtra. I did my Diploma in Government Polytechnic, 
-                  Jalgaon and undergraduate course in
-                  BE Electronics and Telecommunication Technology at SSBT's College Of Engineering And
-                  Technology, Bambhori, Jalgaon. Affiliated to K.B.C. North
-                  Maharashtra University, Jalgaon.
+                  A UI Designer & Web Developer from Pune, Maharashtra. I did my
+                  Diploma in Government Polytechnic, Jalgaon and undergraduate
+                  course in BE Electronics and Telecommunication Technology at
+                  SSBT's College Of Engineering And Technology, Bambhori,
+                  Jalgaon. Affiliated to K.B.C. North Maharashtra University,
+                  Jalgaon.
                 </p>
                 <ul className="clearfix" style={{ marginBottom: "50px" }}>
                   <li>
@@ -107,11 +108,11 @@ const About = () => {
                   <Progress done="70" />
                 </div>
               </div> */}
-              
+
               <div className="skill-item">
                 <div className="skill-header">
                   <div>
-                    <h5 style={{fontWeight: 700 }}>HTML, CSS & JAVASCRIPT</h5>
+                    <h5 style={{ fontWeight: 700 }}>HTML, CSS & JAVASCRIPT</h5>
                   </div>
                   <div>
                     <img className="ico" src={html} alt="" />
@@ -126,7 +127,7 @@ const About = () => {
               <div className="skill-item">
                 <div className="skill-header">
                   <div>
-                    <h5 style={{fontWeight: 700 }}>UI/UX</h5>
+                    <h5 style={{ fontWeight: 700 }}>UI/UX</h5>
                   </div>
                   <div>
                     <h5 style={{ color: "blue", fontWeight: 700 }}>UI/UX</h5>
@@ -139,7 +140,7 @@ const About = () => {
               <div className="skill-item">
                 <div className="skill-header">
                   <div>
-                    <h5 style={{fontWeight: 700 }}>Figma</h5>
+                    <h5 style={{ fontWeight: 700 }}>Figma</h5>
                   </div>
                   <div>
                     <img className="ico" src={figma} alt="" />
@@ -149,44 +150,46 @@ const About = () => {
                   <Progress done="80" />
                 </div>
               </div>
+
               <div className="skill-item">
                 <div className="skill-header">
                   <div>
-                    <h5 style={{fontWeight: 700 }}>Adobe XD</h5>
-                  </div>
-                  <div>
-                    <img className="ico" src={adobe} alt="" />
-                  </div>
-                </div>
-                <div className="skill-percentage">
-                  <Progress done="80" />
-                </div>
-              </div>
-              <div className="skill-item">
-                <div className="skill-header">
-                  <div>
-                    <h5 style={{fontWeight: 700 }}>Illustrator</h5>
+                    <h5 style={{ fontWeight: 700 }}>Illustrator</h5>
                   </div>
                   <div>
                     <img className="ico" src={ill} alt="" />
                   </div>
                 </div>
                 <div className="skill-percentage">
-                  <Progress done="75" />
+                  <Progress done="85" />
                 </div>
               </div>
 
               <div className="skill-item">
                 <div className="skill-header">
-                  <div> 
-                    <h5 style={{fontWeight: 700 }}>Photoshop</h5>
+                  <div>
+                    <h5 style={{ fontWeight: 700 }}>Photoshop</h5>
                   </div>
                   <div>
                     <img className="ico" src={photoshope} alt="" />
                   </div>
                 </div>
                 <div className="skill-percentage">
-                  <Progress done="75" />
+                  <Progress done="85" />
+                </div>
+              </div>
+
+              <div className="skill-item">
+                <div className="skill-header">
+                  <div>
+                    <h5 style={{ fontWeight: 700 }}>Adobe XD</h5>
+                  </div>
+                  <div>
+                    <img className="ico" src={adobe} alt="" />
+                  </div>
+                </div>
+                <div className="skill-percentage">
+                  <Progress done="70" />
                 </div>
               </div>
             </div>
