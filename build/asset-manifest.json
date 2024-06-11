@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56fe3018.css",
+    "main.js": "/static/js/main.6fb776ca.js",
+    "static/js/453.11951b67.chunk.js": "/static/js/453.11951b67.chunk.js",
+    "static/media/Elementary_page-0001.jpg": "/static/media/Elementary_page-0001.0cc12ff6c7422d6f4e05.jpg",
+    "static/media/Intermediate_page-0001.jpg": "/static/media/Intermediate_page-0001.bb1778d29046765613f1.jpg",
+    "static/media/royalcafe.png": "/static/media/royalcafe.19aaabd4fe92b61f5f28.png",
+    "static/media/mzios.jpg": "/static/media/mzios.5523c95e066961b4ae6d.jpg",
+    "static/media/infinity.jpg": "/static/media/infinity.337dff40beb54884a79a.jpg",
+    "static/media/intern.jpg": "/static/media/intern.32ac6652c77b713d5f05.jpg",
+    "static/media/onboarding.png": "/static/media/onboarding.8312845c04d3c9cb9b0f.png",
+    "static/media/call-to-action.jpg": "/static/media/call-to-action.7ce3a348c927cfa3e3e1.jpg",
+    "static/media/ill7.jpg": "/static/media/ill7.e44a1ee0513beaff6bb3.jpg",
+    "static/media/xd.png": "/static/media/xd.aae044bd78f1cc158453.png",
+    "static/media/figma.png": "/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/photoshop.png": "/static/media/photoshop.339f174c692e921a204a.png",
+    "static/media/illustrator.png": "/static/media/illustrator.c8306d9279929e8b8cfe.png",
+    "index.html": "/index.html",
+    "main.56fe3018.css.map": "/static/css/main.56fe3018.css.map",
+    "main.6fb776ca.js.map": "/static/js/main.6fb776ca.js.map",
+    "453.11951b67.chunk.js.map": "/static/js/453.11951b67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56fe3018.css",
+    "static/js/main.6fb776ca.js"
+  ]
+}
