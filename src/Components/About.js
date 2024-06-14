@@ -134,7 +134,7 @@ const About = () => {
                   </div>
                 </div>
                 <div className="skill-percentage">
-                  <Progress done="100" />
+                  <Progress done="80" />
                 </div>
               </div>
               <div className="skill-item">
