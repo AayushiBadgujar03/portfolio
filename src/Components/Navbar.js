@@ -32,19 +32,44 @@ const Navbar = () => {
         >
           <ul>
             <li>
-              <NavLink to="/">HOME</NavLink>
+              <NavLink
+                onClick={() => setShowMediaIcons(!showMediaIcons)}
+                to="/"
+              >
+                HOME
+              </NavLink>
             </li>
             <li>
-              <NavLink to="/about">ABOUT</NavLink>
+              <NavLink
+                onClick={() => setShowMediaIcons(!showMediaIcons)}
+                to="/about"
+              >
+                ABOUT
+              </NavLink>
             </li>
             <li>
-              <NavLink to="/certification">CERTIFICATION</NavLink>
+              <NavLink
+                onClick={() => setShowMediaIcons(!showMediaIcons)}
+                to="/certification"
+              >
+                CERTIFICATION
+              </NavLink>
             </li>
             <li>
-              <NavLink to="/portfolio">PORTFOLIO</NavLink>
+              <NavLink
+                onClick={() => setShowMediaIcons(!showMediaIcons)}
+                to="/portfolio"
+              >
+                PORTFOLIO
+              </NavLink>
             </li>
             <li>
-              <NavLink to="/contact">CONTACT</NavLink>
+              <NavLink
+                onClick={() => setShowMediaIcons(!showMediaIcons)}
+                to="/contact"
+              >
+                CONTACT
+              </NavLink>
             </li>
           </ul>
         </div>

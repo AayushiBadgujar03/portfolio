@@ -211,14 +211,14 @@ const About = () => {
                 <h2 className="action-title">Have any project on mind?</h2>
                 <p>If you can Think it, I can Develope it.</p>
                 <ul>
-                  {/* <li>
+                  <li>
                     <a
                       className="main-btn custom"
-                      href="https://drive.google.com/file/d/1hjqR7aORWXYTkCuDkfkWlksSDoVASg8F/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1Aq6K3NKi5QcXnF9do2eljdiGwfHdlhSJ/view?usp=drive_link"
                     >
                       download cv
                     </a>
-                  </li> */}
+                  </li>
 
                   <Link to="/contact">
                     <li>

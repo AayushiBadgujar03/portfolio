@@ -72,12 +72,12 @@ const Home = () => {
                 <h4 class="sub-title">Hello, I’m</h4>
                 <h1 class="title">AAYUSHI BADGUJAR</h1>
                 <p>A UI Designer & Web Developer</p>
-                {/* <a
+                <a
                   class="main-btn"
-                  href="https://drive.google.com/file/d/1hjqR7aORWXYTkCuDkfkWlksSDoVASg8F/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1Aq6K3NKi5QcXnF9do2eljdiGwfHdlhSJ/view?usp=drive_link"
                 >
                   DOWNLOAD CV
-                </a> */}
+                </a>
               </div>
             </div>
             <div class="col-lg-6 offset-xl-1">
